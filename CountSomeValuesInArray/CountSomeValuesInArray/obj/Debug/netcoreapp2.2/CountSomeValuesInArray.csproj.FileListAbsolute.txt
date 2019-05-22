@@ -1,0 +1,11 @@
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\bin\Debug\netcoreapp2.2\CountSomeValuesInArray.deps.json
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\bin\Debug\netcoreapp2.2\CountSomeValuesInArray.runtimeconfig.json
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\bin\Debug\netcoreapp2.2\CountSomeValuesInArray.runtimeconfig.dev.json
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\bin\Debug\netcoreapp2.2\CountSomeValuesInArray.dll
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\bin\Debug\netcoreapp2.2\CountSomeValuesInArray.pdb
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\obj\Debug\netcoreapp2.2\CountSomeValuesInArray.csprojAssemblyReference.cache
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\obj\Debug\netcoreapp2.2\CountSomeValuesInArray.csproj.CoreCompileInputs.cache
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\obj\Debug\netcoreapp2.2\CountSomeValuesInArray.AssemblyInfoInputs.cache
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\obj\Debug\netcoreapp2.2\CountSomeValuesInArray.AssemblyInfo.cs
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\obj\Debug\netcoreapp2.2\CountSomeValuesInArray.dll
+D:\C#Advanced\CountSomeValuesInArray\CountSomeValuesInArray\obj\Debug\netcoreapp2.2\CountSomeValuesInArray.pdb

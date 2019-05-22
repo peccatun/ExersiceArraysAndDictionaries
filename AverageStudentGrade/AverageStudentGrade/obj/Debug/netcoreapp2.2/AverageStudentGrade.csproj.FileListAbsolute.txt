@@ -1,0 +1,11 @@
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\bin\Debug\netcoreapp2.2\AverageStudentGrade.deps.json
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\bin\Debug\netcoreapp2.2\AverageStudentGrade.runtimeconfig.json
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\bin\Debug\netcoreapp2.2\AverageStudentGrade.runtimeconfig.dev.json
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\bin\Debug\netcoreapp2.2\AverageStudentGrade.dll
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\bin\Debug\netcoreapp2.2\AverageStudentGrade.pdb
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\obj\Debug\netcoreapp2.2\AverageStudentGrade.csprojAssemblyReference.cache
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\obj\Debug\netcoreapp2.2\AverageStudentGrade.csproj.CoreCompileInputs.cache
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\obj\Debug\netcoreapp2.2\AverageStudentGrade.AssemblyInfoInputs.cache
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\obj\Debug\netcoreapp2.2\AverageStudentGrade.AssemblyInfo.cs
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\obj\Debug\netcoreapp2.2\AverageStudentGrade.dll
+D:\C#Advanced\AverageStudentGrade\AverageStudentGrade\obj\Debug\netcoreapp2.2\AverageStudentGrade.pdb

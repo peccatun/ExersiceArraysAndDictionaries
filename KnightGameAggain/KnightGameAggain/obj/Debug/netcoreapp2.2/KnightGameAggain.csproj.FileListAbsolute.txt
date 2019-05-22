@@ -1,0 +1,11 @@
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\bin\Debug\netcoreapp2.2\KnightGameAggain.deps.json
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\bin\Debug\netcoreapp2.2\KnightGameAggain.runtimeconfig.json
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\bin\Debug\netcoreapp2.2\KnightGameAggain.runtimeconfig.dev.json
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\bin\Debug\netcoreapp2.2\KnightGameAggain.dll
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\bin\Debug\netcoreapp2.2\KnightGameAggain.pdb
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\obj\Debug\netcoreapp2.2\KnightGameAggain.csprojAssemblyReference.cache
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\obj\Debug\netcoreapp2.2\KnightGameAggain.csproj.CoreCompileInputs.cache
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\obj\Debug\netcoreapp2.2\KnightGameAggain.AssemblyInfoInputs.cache
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\obj\Debug\netcoreapp2.2\KnightGameAggain.AssemblyInfo.cs
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\obj\Debug\netcoreapp2.2\KnightGameAggain.dll
+D:\C#Advanced\KnightGameAggain\KnightGameAggain\obj\Debug\netcoreapp2.2\KnightGameAggain.pdb

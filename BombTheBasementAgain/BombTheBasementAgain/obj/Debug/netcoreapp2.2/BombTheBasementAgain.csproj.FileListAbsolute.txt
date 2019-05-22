@@ -1,0 +1,11 @@
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\bin\Debug\netcoreapp2.2\BombTheBasementAgain.deps.json
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\bin\Debug\netcoreapp2.2\BombTheBasementAgain.runtimeconfig.json
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\bin\Debug\netcoreapp2.2\BombTheBasementAgain.runtimeconfig.dev.json
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\bin\Debug\netcoreapp2.2\BombTheBasementAgain.dll
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\bin\Debug\netcoreapp2.2\BombTheBasementAgain.pdb
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\obj\Debug\netcoreapp2.2\BombTheBasementAgain.csprojAssemblyReference.cache
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\obj\Debug\netcoreapp2.2\BombTheBasementAgain.csproj.CoreCompileInputs.cache
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\obj\Debug\netcoreapp2.2\BombTheBasementAgain.AssemblyInfoInputs.cache
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\obj\Debug\netcoreapp2.2\BombTheBasementAgain.AssemblyInfo.cs
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\obj\Debug\netcoreapp2.2\BombTheBasementAgain.dll
+D:\C#Advanced\BombTheBasementAgain\BombTheBasementAgain\obj\Debug\netcoreapp2.2\BombTheBasementAgain.pdb

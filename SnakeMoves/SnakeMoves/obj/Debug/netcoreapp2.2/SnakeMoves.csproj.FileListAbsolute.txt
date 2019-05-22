@@ -1,0 +1,11 @@
+D:\C#Advanced\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp2.2\SnakeMoves.deps.json
+D:\C#Advanced\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp2.2\SnakeMoves.runtimeconfig.json
+D:\C#Advanced\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp2.2\SnakeMoves.runtimeconfig.dev.json
+D:\C#Advanced\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp2.2\SnakeMoves.dll
+D:\C#Advanced\SnakeMoves\SnakeMoves\bin\Debug\netcoreapp2.2\SnakeMoves.pdb
+D:\C#Advanced\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.csprojAssemblyReference.cache
+D:\C#Advanced\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.csproj.CoreCompileInputs.cache
+D:\C#Advanced\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.AssemblyInfoInputs.cache
+D:\C#Advanced\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.AssemblyInfo.cs
+D:\C#Advanced\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.dll
+D:\C#Advanced\SnakeMoves\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.pdb

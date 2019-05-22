@@ -1,0 +1,11 @@
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.2\CitiesByContinentAndCountry.deps.json
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.2\CitiesByContinentAndCountry.runtimeconfig.json
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.2\CitiesByContinentAndCountry.runtimeconfig.dev.json
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.2\CitiesByContinentAndCountry.dll
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.2\CitiesByContinentAndCountry.pdb
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.csprojAssemblyReference.cache
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.AssemblyInfo.cs
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.dll
+D:\C#Advanced\CitiesByContinentAndCountry\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.pdb

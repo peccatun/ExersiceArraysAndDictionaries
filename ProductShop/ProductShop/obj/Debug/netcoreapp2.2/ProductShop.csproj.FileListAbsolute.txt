@@ -1,0 +1,11 @@
+D:\C#Advanced\ProductShop\ProductShop\bin\Debug\netcoreapp2.2\ProductShop.deps.json
+D:\C#Advanced\ProductShop\ProductShop\bin\Debug\netcoreapp2.2\ProductShop.runtimeconfig.json
+D:\C#Advanced\ProductShop\ProductShop\bin\Debug\netcoreapp2.2\ProductShop.runtimeconfig.dev.json
+D:\C#Advanced\ProductShop\ProductShop\bin\Debug\netcoreapp2.2\ProductShop.dll
+D:\C#Advanced\ProductShop\ProductShop\bin\Debug\netcoreapp2.2\ProductShop.pdb
+D:\C#Advanced\ProductShop\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.csprojAssemblyReference.cache
+D:\C#Advanced\ProductShop\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.csproj.CoreCompileInputs.cache
+D:\C#Advanced\ProductShop\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.AssemblyInfoInputs.cache
+D:\C#Advanced\ProductShop\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.AssemblyInfo.cs
+D:\C#Advanced\ProductShop\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.dll
+D:\C#Advanced\ProductShop\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.pdb
